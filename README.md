@@ -13,21 +13,37 @@ Usage
 
    git clone https://github.com/ncr00t/find-account-by-face
 2. Install next libraries:
+
    sudo apt-get install python3-pip
+	
    pip3 install bs4
+	
    pip3 install html2text
+	
    pip3 install requests
+	
    pip3 install numpy
+	
    pip3 install scipy
+	
    pip3 install scikit-image
+	
    sudo apt-get install build-essential cmake
-   sudo apt-get install libopenblas-dev liblapack-dev 
+	
+   sudo apt-get install libopenblas-dev liblapack-dev
+	
    sudo apt-get install libx11-dev libgtk-3-dev
+	
    sudo apt-get install python python-dev python-pip
+	
    sudo apt-get install python3-dev
+	
    pip3 install dlib
+	
    sudo apt-get install python3-pybind11
+	
    sudo apt-get install python-pybind11
+	
    
 3. Move your photo to the project directory
 
