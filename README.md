@@ -34,3 +34,8 @@ The project is currently in development status, some modules are being finalized
 # Plans for the future
 
 I invite contributors to develop the project and refine work with various social networks and implementing menu and GUI interface.
+
+
+# License & copyright
+
+Licensed under the [MIT License] (LICENSE).
