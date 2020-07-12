@@ -38,4 +38,4 @@ I invite contributors to develop the project and refine work with various social
 
 # License & copyright
 
-Licensed under the [MIT License] (LICENSE).
+Licensed under the [MIT License](LICENSE).
